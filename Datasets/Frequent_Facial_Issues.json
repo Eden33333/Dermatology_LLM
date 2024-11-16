@@ -1,0 +1,52 @@
+[
+    {
+        "Issue":"Acne and Breakouts",
+        "Reason":"Hormonal fluctuations, clogged pores, stress, or improper skincare",
+        "Solution":"Gentle cleansing, salicylic acid, benzoyl peroxide, or retinoids"
+    },
+    {
+        "Issue":"Hyperpigmentation",
+        "Reason":"Sun exposure, acne scars, hormonal changes (melasma), or inflammation",
+        "Solution":"Sunscreen, vitamin C, niacinamide, chemical peels, or laser therapy"
+    },
+    {
+        "Issue":"Dryness and Dehydration",
+        "Reason":"Weather changes, over-exfoliation, harsh cleansers, or insufficient hydration",
+        "Solution":"Hydrating ingredients (hyaluronic acid, ceramides), gentle moisturizers, and avoiding drying products"
+    },
+    {
+        "Issue":"Oily Skin and Shine",
+        "Reason":"Overactive sebaceous glands or genetic predisposition",
+        "Solution":"Oil-control products, clay masks, niacinamide, and mattifying moisturizers"
+    },
+    {
+        "Issue":"Fine Lines and Wrinkles",
+        "Reason":"Aging, loss of collagen, sun exposure",
+        "Solution":"Retinoids, peptides, sunscreen, and anti-aging treatments (e.g., Botox, fillers)"
+    },
+    {
+        "Issue":"Dark Circles",
+        "Reason":"Fatigue, genetics, allergies, or poor circulation",
+        "Solution":"Eye creams with caffeine or peptides, cold compresses, and proper sleep"
+    },
+    {
+        "Issue":"Redness and Sensitivity",
+        "Reason":"Rosacea, irritation from skincare products, or environmental factors",
+        "Solution":"Calming agents (niacinamide, aloe vera), avoiding triggers like alcohol or spicy food"
+    },
+    {
+        "Issue":"Blackheads and Pores",
+        "Reason":"Clogged pores, excess oil production, dead skin buildup",
+        "Solution":"Salicylic acid, pore strips, and consistent cleansing"
+    },
+    {
+        "Issue":"Uneven Skin Tone",
+        "Reason":"Dead skin accumulation, sun damage, acne scars",
+        "Solution":"Exfoliation, niacinamide, resurfacing treatments"
+    },
+    {
+        "Issue":"Sun Damage",
+        "Reason":"Prolonged UV exposure without protection",
+        "Solution":"Sunscreen (SPF 30+), antioxidants, and retinol-based repair treatments"
+    }
+]
